@@ -1,1 +1,1 @@
-
+info.setLife(5)

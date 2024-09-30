@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=";tqFA-c3^Z4/jL(kGP1Q" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=";tqFA-c3^Z4/jL(kGP1Q" x="0" y="0"><statement name="HANDLER"><block type="hudSetLife" id="agc.K3v.`1]e;5*Pdj.2"><value name="value"><shadow type="math_number" id="`PW}$rN_jO6q1jCokOKy"><field name="NUM">5</field></shadow></value></block></statement></block></xml>
